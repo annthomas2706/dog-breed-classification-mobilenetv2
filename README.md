@@ -209,28 +209,6 @@ The project also provides visualizations of dog images and model predictions.
 
 The final accuracy can be updated here after completing the final training run.
 
-## Key Concepts Demonstrated
-
-- Deep Learning
-- Computer Vision
-- Convolutional Neural Networks
-- Transfer Learning
-- MobileNetV2
-- Image Classification
-- Image Preprocessing
-- TensorFlow
-- Keras
-- TensorFlow Data Pipelines
-- Dataset Batching
-- Dataset Prefetching
-- Multi-Class Classification
-- Softmax Activation
-- Global Average Pooling
-- Model Training
-- Early Stopping
-- Model Evaluation
-- Model Prediction
-- Data Visualization
 
 ## Future Improvements
 
