@@ -49,7 +49,9 @@ Softmax
      ↓
 Predicted Dog Breed
 
-**Dataset**
+
+
+##Dataset
 
 The project uses the Dog Breed Identification dataset containing images of multiple dog breeds.
 
@@ -60,7 +62,7 @@ The data using is from Kaggle's dog breed identification competition.
 
 https://www.kaggle.com/c/dog-breed-identification/data
 
-**How to Run**
+##How to Run
 
 Clone the repository:
 
@@ -78,8 +80,9 @@ jupyter notebook
 Then open the project notebook and run the cells.
 
 
-**Future Improvements**
+##Future Improvements
 Fine-tune the pretrained MobileNetV2 layers
 Improve data augmentation
 Compare different pretrained CNN architectures
 Deploy the model as a web application or API
+
