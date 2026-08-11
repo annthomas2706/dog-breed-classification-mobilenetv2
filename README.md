@@ -275,8 +275,5 @@ It provides practical experience with image preprocessing, TensorFlow data pipel
 
 **Ann Mary Thomas**
 
-MSc Data Science | AI/ML | Generative AI | Python
 
-GitHub: https://github.com/annthomas2706
 
-LinkedIn: https://www.linkedin.com/in/ann-mary-thomas/
