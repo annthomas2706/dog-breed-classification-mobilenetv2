@@ -49,40 +49,6 @@ Softmax
      ↓
 Predicted Dog Breed
 
+---
 
-
-##Dataset
-
-The project uses the Dog Breed Identification dataset containing images of multiple dog breeds.
-
-The dataset is not included in this repository because of its size.
-
-Before running the notebook, download the dataset and update the dataset path in the notebook.
-The data using is from Kaggle's dog breed identification competition.
-
-https://www.kaggle.com/c/dog-breed-identification/data
-
-##How to Run
-
-Clone the repository:
-
-git clone https://github.com/annthomas2706/dog-breed-classification-mobilenetv2.git
-
-
-Install the required packages:
-
-pip install tensorflow numpy pandas matplotlib scikit-learn
-
-Open the Jupyter notebook:
-
-jupyter notebook
-
-Then open the project notebook and run the cells.
-
-
-##Future Improvements
-Fine-tune the pretrained MobileNetV2 layers
-Improve data augmentation
-Compare different pretrained CNN architectures
-Deploy the model as a web application or API
 
